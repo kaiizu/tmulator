@@ -169,9 +169,6 @@ AUDIT_REPORT.md                       independent code audit and action plan
 
 ## Credits
 
-- Receipt interface design workflow guided by
-  [Unslop](https://github.com/heydamir/unslop) by Damir Sokolovsky
-  ([@heydamir](https://x.com/heydamir)), licensed CC BY 4.0.
 - ESC/POS references:
   [Epson process-ID response format](https://download4.epson.biz/sec_pubs/pos/reference_en/escpos/gs_lparen_ch_fn48.html),
   [TM-m30 capture and response examples](https://wes4m.io/posts/epson_rev/),
