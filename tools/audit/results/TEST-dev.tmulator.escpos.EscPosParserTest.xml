@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.tmulator.escpos.EscPosParserTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2026-11-14T05:28:22" hostname="DESKTOP-NRUIN17" time="0.028">
+  <properties/>
+  <testcase name="Epson status handshake works split byte by byte" classname="dev.tmulator.escpos.EscPosParserTest" time="0.002"/>
+  <testcase name="GS 8 L large raster is parsed" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="absolute position creates a positioned run" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="raster image GS v 0 becomes an image block" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="printer ID reports TM m30 model and information" classname="dev.tmulator.escpos.EscPosParserTest" time="0.001"/>
+  <testcase name="barcode length form produces barcode block" classname="dev.tmulator.escpos.EscPosParserTest" time="0.005"/>
+  <testcase name="customized paper width setting is answered" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="GS P motion units do not consume the next command" classname="dev.tmulator.escpos.EscPosParserTest" time="0.001"/>
+  <testcase name="code page 437 decodes extended characters" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="unsupported commands are logged and skipped safely" classname="dev.tmulator.escpos.EscPosParserTest" time="0.001"/>
+  <testcase name="process ID preserves printable non-digit bytes across fragmented reads" classname="dev.tmulator.escpos.EscPosParserTest" time="0.004"/>
+  <testcase name="QR store and print creates QR block" classname="dev.tmulator.escpos.EscPosParserTest" time="0.003"/>
+  <testcase name="sample receipt contains all major block types" classname="dev.tmulator.escpos.EscPosParserTest" time="0.002"/>
+  <testcase name="Epson POS status handshake is parsed without printing" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="GS exclamation width and height nibbles map correctly" classname="dev.tmulator.escpos.EscPosParserTest" time="0.001"/>
+  <testcase name="incremental one-byte feeds produce the same receipt" classname="dev.tmulator.escpos.EscPosParserTest" time="0.002"/>
+  <testcase name="character size and underline commands are interpreted" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="status responses match ESC POS bits" classname="dev.tmulator.escpos.EscPosParserTest" time="0.001"/>
+  <testcase name="prints text and applies alignment and emphasis" classname="dev.tmulator.escpos.EscPosParserTest" time="0.001"/>
+  <testcase name="vendor job status probe is ignored like real hardware" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="Epson job queue is acknowledged" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="initialize resets style state" classname="dev.tmulator.escpos.EscPosParserTest" time="0.001"/>
+  <testcase name="interface status request consumes its parameter byte" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="Epson clear response is answered" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="cut commands produce a cut block" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="GS open paren L stored raster is parsed" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <testcase name="ASB bit customization command is accepted" classname="dev.tmulator.escpos.EscPosParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

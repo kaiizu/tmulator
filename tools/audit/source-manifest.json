@@ -1,0 +1,150 @@
+[
+  {
+    "path": "app\\src\\main\\AndroidManifest.xml",
+    "sha256": "A6E5EC318C3AE31E028EC6EC083978125833146AEAAC3CC09E90A61910B3730B"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\MainActivity.kt",
+    "sha256": "5FBC77027CAB6AD83032AA958DD521B83E7F8333E2998EE016C672CF4EF099A4"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\TMulatorApp.kt",
+    "sha256": "46FBED5D7F9B705AD637A8B31628205948B5EA1C0F6A8FB87962A7C87A79BD6E"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\data\\JobStore.kt",
+    "sha256": "2FBCF1EFDA1C9A2564861C2577F0464FAEC7B9326143317C8E05287EC5F6F2D9"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\data\\PrinterRuntime.kt",
+    "sha256": "10F246B6725C6D736F9D5BDA0CC5DD3C640B5A1BCFEB9394D4E08A2E0EF50456"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\data\\PrinterSettings.kt",
+    "sha256": "EB748C252C370D891D48D0DDB88C62EC93B787F755470F74B67502B3CB8F1435"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\data\\PrintJobSummary.kt",
+    "sha256": "04C72BEE87A18A3190B4FBA8185D97A5A04FA825C7900A4D26A6101CAB18799D"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\data\\SettingsRepository.kt",
+    "sha256": "E0E1A72A8163ACA23C02F1F10A36BD660DE32688C19B5BD34DEA5223FC1511D6"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\escpos\\CodePage.kt",
+    "sha256": "D498193E5AE2B9E58F7D6A56CDCB253F003198A8C8583A959C80BDBCC7BB429F"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\escpos\\EscPosParser.kt",
+    "sha256": "8AA0801036772B7742DA85A9A63D87903888E51A7464A06770B2287358787DB5"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\escpos\\PrinterProfile.kt",
+    "sha256": "C3030D57866C0C87DD97AF5A4387EDED443F87CA228B37C1D29E58168DB03BA1"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\escpos\\ReceiptModel.kt",
+    "sha256": "EC0416F54C80D67015FD6CA850A159CA8E6A8B89912BCF399AF150719D93B603"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\render\\ReceiptRenderer.kt",
+    "sha256": "FB296C01C7533B7966BECB97A66FF694CAD135D41194EDDCFE149FE23E0195EB"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\service\\JobManager.kt",
+    "sha256": "9DA74859139FBA07EA32B98BB59C13D4A5C2693DD5886922F5B2FFB45047EC7F"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\service\\PrinterService.kt",
+    "sha256": "D813563CC2FBFBD0FE807B4ADA599CFCD39045A5C36D629B4A268AEEBB0A1546"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\transport\\BluetoothSppServer.kt",
+    "sha256": "83846E0532453EBA92A9B9A16A4FD0458F8A4F21147FE078F5AB0888C475C594"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\transport\\EnpcDiscovery.kt",
+    "sha256": "9EB4234FC237982C64B4C1E1F42C47441236E5DB27A90BCE924E480EEABE3103"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\transport\\NetworkPrintServer.kt",
+    "sha256": "19C3CA9CAF7E2E92817DDAC661EF51165F2F0B8DD5FCCA30C3A539CA600CA075"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\transport\\PrintPeer.kt",
+    "sha256": "A5A4D13C6DF64FDC225493C1228B65E2507FC0DC1F13B4C9B17506BBF1423132"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\Components.kt",
+    "sha256": "ECE608229EFBE86337DA973BF1E2038416AA43F330C145F4781C302F9DF173DE"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\DebugScreen.kt",
+    "sha256": "48F7A17336F6B826B9FAEA712755353204B69D6CA21742F5A86847218DEC6B10"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\HomeScreen.kt",
+    "sha256": "055DD3D1429F609470DB67288E4783DE38B6B167164AF0669805C58F8662F432"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\JobsScreen.kt",
+    "sha256": "2C02F7CDC9DC3F414F273BFDEF187CF7690BE2A08D1703E5F51C5A80C4B5A6B9"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\PrinterScene.kt",
+    "sha256": "921754B84F2B3CC4D80EFB677D4007B943F8A84E220C64B9DEED3444E5B2E925"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\PrinterViewModel.kt",
+    "sha256": "4B4C394BFDD9477D9E9BA036C6A85559CCEA116A69854D9B1994434C8B8803D0"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\SettingsScreen.kt",
+    "sha256": "E7BD99F23E5A26AF80DC25D1C69DFBC3291527EF4EAC683773C1F957B8D17C56"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\TMulatorAppScreen.kt",
+    "sha256": "8838BD6FF98D801AEA747DF84402D44DCD6B59225F7D2A68313E831C634DF453"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\ui\\theme\\Theme.kt",
+    "sha256": "6DB1137C5A61D59E2D5E9E4FF478EC400F4E2B033A0D4E81F236B39880A74EA7"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\util\\NetworkAddresses.kt",
+    "sha256": "508480A6EF08A4F908AB3102E08A113145F08301081D57DC31E21510F3855F43"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\util\\SampleReceipt.kt",
+    "sha256": "F6DDD6E610FFF32AD999A64E65600A7B7E3A6AD056C745DC369E136672CB4B32"
+  },
+  {
+    "path": "app\\src\\main\\java\\dev\\tmulator\\util\\ShareUtils.kt",
+    "sha256": "5B485E3A7BE831FDC8BCD97128D4FFE45C696BEAB555033F6C1241873714275E"
+  },
+  {
+    "path": "app\\src\\main\\res\\drawable\\ic_launcher.xml",
+    "sha256": "3BA17331AA0E42F48FF30893DC717349863D72E9AF69D32CEE094DC12F93199E"
+  },
+  {
+    "path": "app\\src\\main\\res\\drawable\\ic_notification.xml",
+    "sha256": "A641FB8E03DDF58656961ED2B2A9C0AC0D192904F44272A525462DCC9F5D39D2"
+  },
+  {
+    "path": "app\\src\\main\\res\\values\\strings.xml",
+    "sha256": "BB2F1571BFAC24203DD19E445CC3BBF7119BE4A8CA71F5D5E7FE7854907DD487"
+  },
+  {
+    "path": "app\\src\\main\\res\\values\\themes.xml",
+    "sha256": "697782DA1680130304579550DE7A1468A29BF557832FB46B115AB1A99B30E424"
+  },
+  {
+    "path": "app\\src\\main\\res\\values-night\\themes.xml",
+    "sha256": "FA9CB920C5C4A97B514CD22AF882AED48CE144249CCBCD7CB9706BC70B856967"
+  },
+  {
+    "path": "app\\src\\main\\res\\xml\\file_paths.xml",
+    "sha256": "7A044B5D3A8448A20ED667C4643D3A9B6E8C0CC336B4B2FF377BC06342B68289"
+  }
+]

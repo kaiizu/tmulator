@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMulator</string>
+    <string name="notification_channel_name">Printer emulator</string>
+    <string name="notification_channel_description">Keeps the virtual receipt printer listening</string>
+</resources>

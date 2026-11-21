@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.tmulator.transport.EnpcProtocolTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-14T05:30:14" hostname="DESKTOP-NRUIN17" time="0.002">
+  <properties/>
+  <testcase name="broadcast response has TM m30 sized payload" classname="dev.tmulator.transport.EnpcProtocolTest" time="0.001"/>
+  <testcase name="network discovery exposes IPv4 details" classname="dev.tmulator.transport.EnpcProtocolTest" time="0.001"/>
+  <testcase name="device name discovery responds with EPSONq payload" classname="dev.tmulator.transport.EnpcProtocolTest" time="0.0"/>
+  <testcase name="who is holding returns the active POS address" classname="dev.tmulator.transport.EnpcProtocolTest" time="0.0"/>
+  <testcase name="unknown and malformed packets are ignored" classname="dev.tmulator.transport.EnpcProtocolTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

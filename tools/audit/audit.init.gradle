@@ -1,0 +1,16 @@
+// Opt-in audit probes. Since 0.3.1 the audit suite lives in the normal app test
+// source set; only add tools/audit/src if that copy is absent.
+allprojects {
+    afterEvaluate { project ->
+        if (project.plugins.hasPlugin('com.android.application')) {
+            def localAudit = project.rootProject.file('app/src/test/java/dev/tmulator/audit/AuditRegressionTest.kt')
+            if (!localAudit.exists()) {
+                project.android.sourceSets.test.java.srcDir(project.rootProject.file('tools/audit/src'))
+            }
+            project.tasks.withType(Test).configureEach {
+                outputs.upToDateWhen { false }
+                testLogging { events 'passed', 'failed'; showStandardStreams = true }
+            }
+        }
+    }
+}
